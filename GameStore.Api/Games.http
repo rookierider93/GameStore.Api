@@ -28,3 +28,6 @@ Content-Type: application/json
 
 ###
 DELETE http://localhost:5186/games/2
+
+###
+GET http://localhost:5186/localhost:5162/users
