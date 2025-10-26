@@ -1,1 +1,4 @@
 GET http://localhost:5186/genres
+
+###
+GET http://localhost:5186/users
