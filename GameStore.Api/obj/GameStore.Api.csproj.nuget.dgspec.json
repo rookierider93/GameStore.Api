@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ROHAN\\Study\\DotNet\\Blazor_Tutorial\\GameStore\\GameStore.Api\\GameStore.Api\\GameStore.Api.csproj": {}
+    "C:\\ROHAN\\Study\\GameApi\\GameStore.Api\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\ROHAN\\Study\\DotNet\\Blazor_Tutorial\\GameStore\\GameStore.Api\\GameStore.Api\\GameStore.Api.csproj": {
+    "C:\\ROHAN\\Study\\GameApi\\GameStore.Api\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ROHAN\\Study\\DotNet\\Blazor_Tutorial\\GameStore\\GameStore.Api\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\ROHAN\\Study\\GameApi\\GameStore.Api\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "C:\\ROHAN\\Study\\DotNet\\Blazor_Tutorial\\GameStore\\GameStore.Api\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "C:\\ROHAN\\Study\\GameApi\\GameStore.Api\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\rohan\\.nuget\\packages\\",
-        "outputPath": "C:\\ROHAN\\Study\\DotNet\\Blazor_Tutorial\\GameStore\\GameStore.Api\\GameStore.Api\\obj\\",
+        "outputPath": "C:\\ROHAN\\Study\\GameApi\\GameStore.Api\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -84,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.3.24204.13/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
